@@ -4,18 +4,18 @@
   "version": "2.5.5",
   "description": "unibest - 最好的 uniapp 开发模板",
   "author": {
-    "name": "feige996",
-    "zhName": "菲鸽",
-    "email": "1020103647@qq.com",
-    "github": "https://github.com/feige996",
-    "gitee": "https://gitee.com/feige996"
+    "name": "daniel",
+    "zhName": "纣王",
+    "email": "kudsu@qq.com",
+    "github": "https://github.com/ly2351",
+    "gitee": "https://gitee.com/ly2351"
   },
   "license": "MIT",
-  "repository": "https://github.com/feige996/unibest",
-  "repository-gitee": "https://gitee.com/feige996/unibest",
+  "repository": "https://github.com/ly2351/0test",
+  "repository-gitee": "https://gitee.com/ly2351/0test",
   "repository-deprecated": "https://github.com/codercup/unibest",
   "bugs": {
-    "url": "https://github.com/feige996/unibest/issues"
+    "url": "https://github.com/ly2351/0test/issues"
   },
   "homepage": "https://feige996.github.io/unibest/",
   "engines": {
